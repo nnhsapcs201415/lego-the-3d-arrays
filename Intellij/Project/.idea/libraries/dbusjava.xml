@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dbusjava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ProgramFiles/leJOS_EV3_0.9.1-beta_win32/lib/ev3/dbusjava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
