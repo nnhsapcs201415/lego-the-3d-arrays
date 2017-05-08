@@ -2,6 +2,9 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../Robot_Home/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Robot_Home/src" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$/../ProgramFiles/leJOS_EV3_0.9.1-beta_win32/lib/ev3/dbusjava-src">
       <sourceFolder url="file://$MODULE_DIR$/../ProgramFiles/leJOS_EV3_0.9.1-beta_win32/lib/ev3/dbusjava-src" isTestSource="false" />
     </content>
@@ -15,5 +18,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="ev3classes" level="project" />
     <orderEntry type="library" name="dbusjava" level="project" />
+    <orderEntry type="library" name="classes-src" level="project" />
+    <orderEntry type="library" name="classes" level="project" />
   </component>
 </module>

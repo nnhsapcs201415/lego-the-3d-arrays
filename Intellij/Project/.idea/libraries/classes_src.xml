@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes-src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Robot_Home/Files/leJOS_NXJ_0.9.1beta-3_win32/lib/nxt/classes-src.zip!/" />
+    </SOURCES>
+  </library>
+</component>
