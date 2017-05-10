@@ -4,7 +4,7 @@ public class Motor{
 
     public static void main(String[] agrs){
 
-        NXTMotor B = new NXTMotor(MotorPort.B);
+        NXTMotor B = new NXTMotor(MotorPort.A);
         B.forward();
 
     }
