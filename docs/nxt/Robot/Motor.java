@@ -6,6 +6,6 @@ public class Motor{
 
         NXTMotor B = new NXTMotor(MotorPort.A);
         B.forward();
-
+        Button.ENTER.waitForPressAndRelease();
     }
 }
